@@ -1,0 +1,15 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "- It is a state management library\r - It has only 5 major functions\r 1. create store\r 2. combine reducer\r 3. compose\r 4. apply middleware\r 5. bind action creators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
